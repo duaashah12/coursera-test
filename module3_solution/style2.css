@@ -1,0 +1,137 @@
+#header-nav
+{
+	background-color: gray;
+	border-radius: 0;
+	border: 0;
+	line-height: .75em;
+}
+.navbar-brand a:hover, .navbar-brand a:focus
+{
+text-decoration:none;
+}
+
+.navbar-brand
+{
+padding-top:20px;
+height: 60%;
+}
+.navbar-brand h1
+{
+	color:black;
+	font-weight: bold;
+	margin-top:0;
+margin-bottom:0;
+line-height:.80em;
+font-family: cursive;
+}
+h2 {
+margin-top: 0;
+text-align: center;
+font-family: cursive;
+padding-bottom: 10px;
+margin-bottom: 2%;
+}
+h3
+   {
+
+font-size: 30px;
+position:absolute;
+margin: 0;
+width: 85%;
+text-align: center;
+font-family: cursive;
+padding-bottom: 0%;
+padding-top: 1%;
+} 
+h4
+{
+
+font-size: 30px;
+position:absolute;
+margin: 0;
+width: 85%;
+text-align: center;
+font-family: cursive;
+padding-top: 1%;
+padding-bottom: 0%;
+
+}
+h5
+{
+font-size: 30px;
+position:absolute;
+margin: 0;
+padding-top: 0%;
+width: 85%;
+text-align: center;
+font-family: cursive;
+padding-bottom: 0%;
+}
+p {
+
+background-color: gray;
+font-family: cursive;
+color: black;
+margin: 0;
+font-size: 20px;
+border: 2px solid black;
+padding-top:6%;
+padding-left: 5%;
+padding-right: 5%;
+}
+
+.navbar-header button.navbar-toggle, .navbar-header .icon-bar{
+	border: 1px solid black;
+}
+.navbar-header button.navbar-toggle
+{
+	clear: both;
+	margin-top: -30px;
+	background-color: white;
+}
+.chicken:hover,.beef:hover,.sushi:hover
+{
+	box-shadow: 0 2px 2px 1px #cccccc;
+	background-color: gray;
+	
+	
+}
+.nav>li>a {
+     position: relative; 
+     display: block; 
+     padding: 0;}
+.chicken
+{
+	position: absolute;
+	margin: 0;
+	bottom:0;
+	right: 0;
+	width: 100%;
+	text-align: center;
+	font-size: 1.6em;
+	background-color:white;
+	color:black;
+	margin-bottom: 1%;
+}
+.beef  {
+position: absolute;
+	bottom: 0;
+	right: 0;
+	width: 100%;
+	text-align: center;
+	font-size: 1.6em;
+	background-color:white;
+	color:black;
+	margin-bottom: 1%;
+}
+.sushi{
+	position: absolute;
+	bottom: 0;
+	right: 0;
+	width: 100%;
+	text-align: center;
+	font-size: 1.6em;
+	background-color:white;
+	color:black;
+	margin-bottom: 1%;
+}
